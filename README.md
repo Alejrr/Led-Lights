@@ -51,10 +51,6 @@ Raspberry Pi GPIO Pins
 
 Make sure to connect the appropriate GPIO pins (e.g., GPIO18, GPIO23, GPIO24) to the RGB LED's red, green, and blue pins, respectively.
 
-## Example
-
-![RGB LED Control GUI](rgb_led_control_gui.png)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
